@@ -1,9 +1,16 @@
-#main-content {
-  margin-left: 8%;
-  margin-right: 8%;
-  border: 5px solid black;
+#main {
+  background-image: url(../images/stars.jpg);
+  background-repeat: round;
 }
 
-#extra{
-  background-image: url(../images/galaxy_background.jpg);
+table {
+  color: white;
+}
+
+#main-content {
+  text-align: center;
+  margin-left: 8%;
+  margin-right: 8%;
+  background-color: black;
+  border: 5px solid black;
 }
