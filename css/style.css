@@ -39,6 +39,10 @@ th{
   border: 1px solid white;
 }
 
-#blank{
+#blank1{
+  border: none;
+}
+
+#blank2{
   border: none;
 }
